@@ -47,3 +47,10 @@ Upon completion of this course, students should be able to:
     - Written test (40%)
 - **Final Exam (Normal and Resit Periods)**:
     - Written test – 100%
+ 
+
+
+
+-----
+
+ For more course-related assignments, check out the [Engenharia Informatica repository](https://github.com/danielmribeiro/engenharia-informatica).
