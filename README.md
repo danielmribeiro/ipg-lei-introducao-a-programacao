@@ -1,12 +1,11 @@
 # Introdução à Programação (Introduction to Programming)
 Repository for the "Introdução à Programação" course at Instituto Politécnico da Guarda (IPG), part of the "Licenciatura em Engenharia Informática" degree program. This repository contains exercises, resources, and materials related to the study of Introduction to Programming.
 
-
 ## Course Objectives
 Upon completion of this course, students should be able to:
-1. Design and develop programs in C.
-2. Differentiate and apply elements of the C language.
-3. Program algorithms in C.
+- Design and develop programs in C.
+- Differentiate and apply elements of the C language.
+- Program algorithms in C.
 
 ## Program Contents
 ### Introduction to Programming in C
@@ -39,16 +38,6 @@ Upon completion of this course, students should be able to:
 - Interactive lecture
 - Problem-solving
 - Group work
-
-## Assessment Criteria
-- **Continuous Assessment**:
-    - Portfolio with classroom exercises (20%)
-    - Practical test (40%)
-    - Written test (40%)
-- **Final Exam (Normal and Resit Periods)**:
-    - Written test – 100%
- 
-
 
 
 -----
